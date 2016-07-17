@@ -1,4 +1,4 @@
-﻿function input(s, N) {
+function input(s, N) {
     var str = Form.Textbox.value.replace(/\s+/g, " ").split(" ");
     var i, j, k = 0, M = 0;
     for (i = 0; i < N; ++i) {
